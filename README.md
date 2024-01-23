@@ -29,5 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 <img width="1680" alt="Captura de pantalla 2024-01-23 a la(s) 07 02 37" src="https://github.com/leon1611/U.E.P/assets/146900826/02201817-c1eb-49ec-b7e0-ef344050e3b8">
 
+<img width="1680" alt="Captura de pantalla 2024-01-23 a la(s) 07 02 45" src="https://github.com/leon1611/U.E.P/assets/146900826/c0fd729f-a4dc-43a6-8dab-ec3c69dcc2da">
 
-[Captura de pantalla 2024-01-23 a la(s) 07 02](https://github.com/leon1611/U.E.P/assets/146900826/3c6a1509-09e0-4513-a0c9-449c6c2b1b79)
